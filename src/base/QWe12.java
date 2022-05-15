@@ -1,5 +1,6 @@
 package base;
 
+
 public class QWe12 {
 
 	public static void main(String[] args) {
